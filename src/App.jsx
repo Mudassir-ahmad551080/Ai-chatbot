@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <h1>this is the app component</h1>
+      <h1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius natus nobis veniam dolorem reprehenderit officiis dolores sint pariatur itaque excepturi?</h1>
     </>
   )
 }
